@@ -1,2 +1,3 @@
 # livestream-data
-Livestream Metadata
+
+This repository has been moved: https://github.com/OnNow-tv/livestream-metadata/
